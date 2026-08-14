@@ -1,66 +1,98 @@
 # 🏛️ Marconi Law Firm Enterprise Network
 
-## First things first...
+> *"I learn best by building things, so I stopped reading about Windows Server and started creating one."*
 
-Hi! 👋
+## 👋 Hey, welcome!
 
 I'm Jasmine.
 
-One thing about me is I learn best by building things.
+If you handed me a 200-page book about Active Directory, I'd read it...
 
-I can read about Windows Server all day, but it doesn't really click until I break something, fix it, and figure out why it happened.
+But honestly?
 
-So that's exactly what I did here.
+I'd probably learn twice as much by breaking a lab and figuring out how to fix it.
 
-This project challenged me to design an enterprise network for a fictional law firm using Windows Server 2025 and Active Directory. Along the way I learned way more than I expected.
+That's exactly what this project was.
+
+Instead of just learning about enterprise networking, I designed one.
+
+Instead of just reading about Active Directory, I built one.
+
+And somewhere between creating users, configuring permissions, and troubleshooting things that absolutely didn't work the first time...I realized this is the kind of work I actually enjoy.
 
 ---
 
 # 🎯 The Mission
 
-Imagine a law firm with 10 employees moving into a new office.
+Imagine you're the IT Administrator for a growing law firm.
 
-They need:
+Ten employees.
 
-• A secure network
+One office.
 
-• Reliable file sharing
+One server.
 
-• User accounts
+Everyone needs access to the right files...
 
-• Department permissions
+...but nobody should have access to everything.
 
-• Room to grow
-
-My job was to build the plan that would make all of that possible.
+My job was to design a Windows Server environment that could make all of that happen.
 
 ---
 
-# 🔨 What I Actually Built
+# 🔨 What I Built
 
-Instead of just talking about Active Directory, I built one.
+Instead of just checking boxes for a class, I treated this like it was for a real client.
 
 Here's what I worked on:
 
-✅ Installed Windows Server
+✅ Windows Server 2025
 
-✅ Configured Active Directory
+✅ Active Directory
 
-✅ Created employee accounts
+✅ Employee User Accounts
 
-✅ Built security groups
+✅ Security Groups
 
-✅ Configured shared folders
+✅ Shared Folder Permissions
 
-✅ Applied NTFS permissions
+✅ NTFS Permissions
 
-✅ Designed the network topology
+✅ Enterprise Network Design
 
-✅ Planned static IP addresses
+✅ Static IP Planning
 
-✅ Selected enterprise hardware
+✅ Hardware Recommendations
 
-✅ Documented everything from beginning to end
+✅ Project Documentation
+
+✅ Client Presentation
+
+---
+
+# 🗺️ Building the Blueprint
+
+Before I touched Windows Server, I started with the network.
+
+I wanted to know where every computer, device, and server belonged before I started configuring anything.
+
+*(Insert Network Topology Image Here)*
+
+---
+
+# 🎉 Tiny Popup...Big Win
+
+This screenshot might not look exciting...
+
+But seeing
+
+**"Welcome to the fsitbs.local domain."**
+
+was one of my favorite moments.
+
+It meant the client computer successfully joined the domain, and everything I'd been building was finally working together.
+
+*(Insert Domain Join Screenshot Here)*
 
 ---
 
@@ -70,21 +102,59 @@ Permissions.
 
 Seriously.
 
-At one point I thought I had everything right until users could see folders they definitely weren't supposed to see.
+I thought I had everything configured correctly...
 
-That forced me to slow down, double check every security group, and really understand how permissions actually work instead of guessing.
+Until users could suddenly access folders they definitely weren't supposed to.
 
-Looking back, I'm glad it happened because I learned way more fixing the mistake than I would have if everything worked the first time.
+That was frustrating...
+
+...but it also forced me to slow down, trace every security group, and actually understand *why* permissions worked the way they do instead of just hoping they did.
+
+Looking back...
+
+I'm glad it happened.
+
+Those are usually the lessons that stick.
 
 ---
 
-# 💡 My Biggest Takeaway
+# 🎥 Want the Tour?
 
-This project changed how I look at IT.
+If you're more of a "show me" person than a "read me" person...
 
-Before, Windows Server felt like a bunch of separate tools.
+I've included:
 
-Now I see how everything connects.
+🎬 A complete project walkthrough
+
+🎬 A network walkthrough
+
+Sometimes it's easier to explain something than it is to write about it.
+
+---
+
+# 📄 Prefer Reading?
+
+I've also included:
+
+📑 The complete project report
+
+📊 My client presentation
+
+They cover everything from planning and hardware selection to implementation and documentation.
+
+---
+
+# 💡 Biggest Takeaway
+
+This project completely changed how I look at IT.
+
+Before this...
+
+Windows Server felt like a collection of different tools.
+
+Now...
+
+I see a system.
 
 Users.
 
@@ -96,48 +166,42 @@ Networking.
 
 Documentation.
 
-They're all pieces of the same puzzle.
+Everything depends on everything else.
+
+And that's honestly what made this project fun.
 
 ---
 
-# 🚀 If I Came Back Tomorrow...
+# 🚀 If I Built Version 2...
 
-I'd definitely level this project up with:
+I'd definitely challenge myself to add:
 
 ⬜ Group Policy
-
-⬜ PowerShell automation
 
 ⬜ DNS
 
 ⬜ DHCP
 
+⬜ PowerShell Automation
+
 ⬜ Microsoft Entra ID
 
 ⬜ Hybrid Identity
 
-⬜ Multi Factor Authentication
+⬜ Multi-Factor Authentication
 
-I like looking back at projects because it's a good way to see how much I've grown.
-
----
-
-# 📁 What's Inside
-
-📄 Full Project Report
-
-🎥 Video Walkthrough
-
-📸 Screenshots
-
-🗺️ Network Diagram
+One of my favorite parts about technology is realizing there's always another level to learn.
 
 ---
 
-# Thanks for checking it out.
+# 👋 Thanks for stopping by.
 
-This is one of the first projects in my cybersecurity portfolio, and it's definitely not the last.
+This is one of the first projects in my cybersecurity portfolio.
 
-Every project teaches me something new, and I'm excited to keep building.
+It won't be the last.
 
-If you have feedback, I'd genuinely love to hear it.
+Every project teaches me something new, and each one gets me one step closer to my goal of becoming an Identity & Access Management Analyst.
+
+If you made it all the way to the bottom...
+
+Thanks for checking out something I genuinely enjoyed building.
