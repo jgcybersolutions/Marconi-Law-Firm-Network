@@ -2,9 +2,9 @@
 
 > "Every expert has a first project. This is one of mine."
 
-[📄 Project Report](Documentation/JGrant_ProjectReport_MarconiLaw.pdf) •
-[🎤 Client Pitch](Videos/JGrant_ClientPitch_MarconiLaw.mp4) •
-[🎥 Network Walkthrough](Videos/JGrant_NetworkWalkthrough_MarconiLaw.mp4)
+[📄 The Blueprint](./Documentation/JGrant_ProjectReport_Marconi%20Law.pdf) •
+[🎤 The Pitch](./Videos/JGrant_VideoPitch_Marconi%20Law.mp4) •
+[🎬 Take the Tour](./Videos/MarconiLawWalkthroughVideo.mp4)
 
 ---
 
