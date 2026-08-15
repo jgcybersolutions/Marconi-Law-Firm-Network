@@ -8,15 +8,27 @@
 
 ---
 
-# 👋 Hey, I'm Jasmine.
+# 📖 The Story
 
-Thanks for stopping by!
+Hey! I'm Jasmine.
 
-I'm building this portfolio as I work toward becoming an Identity and Access Management (IAM) Analyst.
+One thing about me is I learn best by building.
 
-Every project here represents something I challenged myself to learn, build, troubleshoot, and improve.
+Reading about Windows Server is great...
 
-This repository is one of the first milestones on that journey.
+...but actually building an environment?
+
+That's where everything finally clicks for me.
+
+This repository documents my first enterprise network build using Windows Server 2025 and Active Directory.
+
+I didn't want to just complete a project.
+
+I wanted to build something that made me think like an IT professional.
+
+So...
+
+Let's dive in.
 
 ---
 
