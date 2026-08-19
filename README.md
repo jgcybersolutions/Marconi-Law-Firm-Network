@@ -62,11 +62,12 @@ That’s what led me toward IAM. 🔐
 
 ⸻
 
-🎥 See My Work
+👀 WANT TO SEE HOW I BUILT IT?
 
-📄 Project Documentation
-🎬 Network Walkthrough
-🎤 Client Pitch
+📄 PROJECT REPORT	🎬 NETWORK WALKTHROUGH	🎤 CLIENT PITCH
+View the Full Build	Watch the Network Tour	Watch My Pitch
+
+Don’t just read about the build. See it in action.
 
 ⸻
 
