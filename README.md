@@ -61,14 +61,13 @@ I don’t just enjoy building the environment. I’m interested in deciding who 
 That’s what led me toward IAM. 🔐
 
 ⸻
+## 👀 WANT TO SEE HOW I BUILT IT?
 
-👀 WANT TO SEE HOW I BUILT IT?
+| 📄 PROJECT REPORT | 🎬 NETWORK WALKTHROUGH | 🎤 CLIENT PITCH |
+| :---: | :---: | :---: |
+| [View the Full Build](https://github.com/jgcybersolutions/Marconi-Law-Firm-Network/blob/main/Documentation/JGrant_ProjectReport_Marconi%20Law.pdf) | [Watch the Network Tour](https://github.com/jgcybersolutions/Marconi-Law-Firm-Network/blob/main/Videos/MarconiLawWalkthroughVideo.mp4) | [Watch My Pitch](https://github.com/jgcybersolutions/Marconi-Law-Firm-Network/blob/main/Videos/JGrant_VideoPitch_Marconi%20Law.mp4) |
 
-📄 PROJECT REPORT	🎬 NETWORK WALKTHROUGH	🎤 CLIENT PITCH
-View the Full Build	Watch the Network Tour	Watch My Pitch
-
-Don’t just read about the build. See it in action.
-
+> **Don't just read about the build. See it in action.**
 ⸻
 
 🚀 Where I’m Going
