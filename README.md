@@ -1,179 +1,77 @@
-# 🏛️ Marconi Law Firm Enterprise Network
+#⚖️ Marconi Law Firm Network
 
-> "Every expert has a first project. This is one of mine."
+10 employees. Sensitive legal data. One question:
 
-[📄 The Blueprint](./Documentation/JGrant_ProjectReport_Marconi%20Law.pdf) •
-[🎤 The Pitch](./Videos/JGrant_VideoPitch_Marconi%20Law.mp4) •
-[🎬 Take the Tour](./Videos/MarconiLawWalkthroughVideo.mp4)
+Who should have access to what?
 
----
+That’s the problem I set out to solve.
 
-# 📖 The Story
+⸻
 
-Hey! I'm Jasmine.
+👋🏽 Hey, I’m Jasmine
 
-One thing about me is I learn best by building.
+I’m an IT and cybersecurity student building my way into Identity & Access Management (IAM).
 
-Reading about Windows Server is great...
+I learn by getting hands-on, breaking things, fixing them, and figuring out why they work.
 
-...but actually building an environment?
+This project is where networking stopped being diagrams on a screen and started becoming something I could actually build.
 
-That's where everything finally clicks for me.
+⸻
 
-This repository documents my first enterprise network build using Windows Server 2025 and Active Directory.
+🔐 What I Built
 
-I didn't want to just complete a project.
+I designed a secure network for a 10-person law firm, including:
 
-I wanted to build something that made me think like an IT professional.
+Windows Server 2025 • Active Directory • Security Groups
+NTFS Permissions • Shared Folders • Static IP Addressing
 
-So...
+The mission?
 
-Let's dive in.
+Give the right people the right access without giving everyone the keys to the building. 🔑
 
----
+⸻
 
-# 🎯 The Mission
+🗺️ My Network
 
-Imagine you're the IT Administrator for a growing law firm.
+10 Users → Active Directory → Security Groups → Permissions → Resources
 
-The company needs a secure network that can support employees today while leaving room for future growth.
+Simple on paper.
 
-My job was to design a complete enterprise network solution that included Windows Server, Active Directory, secure file sharing, user management, and the documentation needed to support it.
+A lot more interesting when you’re the one building it.
 
----
+⸻
 
-# 🚀 Quick Highlights
+💡 This Is Where It Clicked
 
-✔️ Designed an enterprise network for a 10-user environment
+Before this project, Active Directory was something I was learning.
 
-✔️ Configured Windows Server 2025
+After this project, I understood what it was actually doing.
 
-✔️ Built an Active Directory environment
+Identity → Access → Control
 
-✔️ Created user accounts and security groups
+A user has an identity.
+Their role determines what they need.
+Groups organize access.
+Permissions enforce it.
 
-✔️ Configured NTFS permissions and shared folders
+And that’s when I realized:
 
-✔️ Planned static IP addressing
+I don’t just enjoy building the environment. I’m interested in deciding who gets through the door.
 
-✔️ Selected enterprise hardware
+That’s what led me toward IAM. 🔐
 
-✔️ Produced complete technical documentation
+⸻
 
-✔️ Delivered a client presentation and project walkthrough
+🎥 See My Work
 
----
-
-# 🛠️ Tech Stack
-
-Operating System
-
-• Windows Server 2025
-
-Infrastructure
-
-• Active Directory
-• NTFS Permissions
-• Shared Folders
-• Static IP Addressing
-
-Planning
-
-• Enterprise Network Design
-• Hardware Selection
-• Network Documentation
-
-Communication
-
-• Technical Documentation
-• Client Presentation
-
----
-
-# 😅 What Tested Me
-
-Permissions.
-
-They looked simple...
-
-...until they weren't.
-
-I quickly learned that understanding *why* permissions behave a certain way is a lot more important than memorizing which boxes to check.
-
-That lesson alone made this project worth building.
-
----
-
-# 📚 What I Took Away
-
-Before this project, Windows Server felt like a collection of different tools.
-
-Now I see how everything connects.
-
-Users.
-
-Groups.
-
-Permissions.
-
-Networking.
-
-Documentation.
-
-It's all one system.
-
-That shift in thinking is probably the biggest thing I gained from this project.
-
----
-
-# 📂 Explore the Project
-
-📄 Project Report
-
-Dive into the planning, network design, implementation, and documentation.
-
+📄 Project Documentation
+🎬 Network Walkthrough
 🎤 Client Pitch
 
-Watch me present the solution as if I were presenting to a client.
+⸻
 
-🎥 Network Walkthrough
+🚀 Where I’m Going
 
-Take a tour of the completed environment and see how everything fits together.
+Active Directory → Entra ID → MFA → Identity Lifecycle → IAM
 
----
-
-# 🌱 Where I'm Headed
-
-Every repository in this portfolio builds on the last one.
-
-Next up:
-
-🔐 Microsoft Entra ID
-
-☁️ Azure
-
-⚡ PowerShell Automation
-
-🪪 Identity Lifecycle Management
-
-🛡️ Multi Factor Authentication
-
-My goal isn't just to collect projects.
-
-It's to become someone who can confidently solve identity and access challenges in the real world.
-
----
-
-# ☕ Thanks for stopping by.
-
-If you made it this far...
-
-Seriously, thank you.
-
-Whether you're a recruiter, another IT professional, or someone else learning cybersecurity, I appreciate you taking a few minutes to look through my work.
-
-I hope when you come back in a few months, you'll notice that every project is a little better than the last.
-
-See you in the next build.
-
--Jasmine
+I’m Jasmine Grant. This was one of my first builds. It definitely won’t be my last.
