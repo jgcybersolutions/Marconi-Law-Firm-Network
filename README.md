@@ -1,4 +1,4 @@
-#⚖️ Marconi Law Firm Network
+⚖️ Marconi Law Firm Network
 
 10 employees. Sensitive legal data. One question:
 
